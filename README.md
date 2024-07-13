@@ -48,5 +48,5 @@ EDA involved exploring the sales data to answer questions such as:
 - Adults, particularly those in the age range 30-49, made the highest number of purchases compared to younger and senior demographics.
 
 ### Recommendations
--Utilize historical sales data to forecast future trends and plan marketing strategies and inventory purchases accordingly. 
--This proactive approach can help mitigate the impact of seasonal fluctuations in demand.
+- Utilize historical sales data to forecast future trends and plan marketing strategies and inventory purchases accordingly. 
+- This proactive approach can help mitigate the impact of seasonal fluctuations in demand.
