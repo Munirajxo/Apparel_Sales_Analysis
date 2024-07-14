@@ -13,8 +13,11 @@
 
 I analyzed sales data for a clothing retail company to gain insights into trends and streamline reporting. Using pivot tables, VLOOKUP, and advanced Excel functions, I cleaned and visualized the data. I then developed an interactive dashboard with pivot charts and slicers.
 
+![Sales_Dashboard](https://github.com/user-attachments/assets/bfb08ddc-df62-45a8-8561-0e39406af1f0)
+
+
 ### Data Sources
-Sales Data: The dataset used for this analysis is the "sales_data.csv" file, Containing detailed informtion about clothing sales.
+Sales Data: The dataset used for this analysis is the "Sales_data.xlsx" file, Containing detailed informtion about clothing sales.
  
 ### Tools 
 
