@@ -11,7 +11,7 @@
 - [Recommendations](#recommendations)
 ## Project Overview
 
-I analyzed sales data for a clothing retail company to gain insights into trends and streamline reporting. Using pivot tables, VLOOKUP, and advanced Excel functions, I cleaned and visualized the data. I then developed an interactive dashboard with pivot charts and slicers, reducing weekly reporting time from 10 hours to 2 hours and saving 416 hours annually.
+I analyzed sales data for a clothing retail company to gain insights into trends and streamline reporting. Using pivot tables, VLOOKUP, and advanced Excel functions, I cleaned and visualized the data. I then developed an interactive dashboard with pivot charts and slicers.
 
 ### Data Sources
 Sales Data: The dataset used for this analysis is the "sales_data.csv" file, Containing detailed informtion about clothing sales.
